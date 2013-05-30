@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+		<link href='http://fonts.googleapis.com/css?family=Chelsea+Market'
+			rel='stylesheet' type='text/css'>
+
+		<script type="text/javascript"
+			src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js"></script>
+		<script type="text/javascript">
+			$(document).ready(
+				function() {
+					$('#login_btn').click(
+							function() {
+								var user = $('#logininput').val();
+								if(user != "") {
+									//$.cookie("user", user);
+									window.location.href = "waiting.html?user=" + user + "&nocache=" + new Date().getTime();
+								}
+								else {
+									alert("Please input your name!");
+								}
+							});
+				});
+		</script>
+
+	</head>
+
+	<body>
+
+		<div id="login_container">
+
+			<!-- login input -->
+			<input type="text" id="logininput" />
+			<input type="hidden" id="player_name" />
+
+			<!-- start game button -->
+			<a type="text" id="login_btn"></a>
+
+			<!-- background -->
+			<img src="images/login.jpg" id="full-screen-background-image" />
+
+		</div>
+
+	</body>
+
+</html>

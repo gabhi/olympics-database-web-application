@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<link href='http://fonts.googleapis.com/css?family=Chelsea+Market'
+			rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+		<link rel="stylesheet" href="styles/apprise.css" type="text/css"></link>
+		<script type="text/javascript"
+			src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+		<script type="text/javascript" src="js/apprise.js"></script>
+		<script type="text/javascript" src="js/slideout.js"></script>
+		<script type="text/javascript" src="js/AjaxRequest.js"></script>
+		<script type="text/javascript" src="js/URI.js"></script>
+		<script type="text/javascript" src="js/Parser.js"></script>
+		<script type="text/javascript" src="js/Grid.js"></script>
+		<script type="text/javascript" src="js/GameInfo.js"></script>
+		<script type="text/javascript" src="js/Player.js"></script>
+		<script type="text/javascript" src="js/Card.js"></script>
+		<script type="text/javascript" src="js/House.js"></script>
+		<script type="text/javascript" src="js/Interaction.js"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js"></script>
+		<script type="text/javascript">
+	$(document).ready(function() {
+		$('#dice_btn').click(function() {
+			if (!players[id].bankruptcy && !terminate) {
+				if (id == currentTurn && !rolled) {
+					rolled = true;
+					$('#dice').animate({
+						opacity : 0.5,
+						top : '-=250px'
+					});
+					$('#dice').animate({
+						opacity : 1,
+						top : '+=250px'
+					});
+					$('#dice').animate({
+						opacity : 0.5,
+						top : '-=100px'
+					});
+					$('#dice').animate({
+						opacity : 1,
+						top : '+=100px'
+					}, 1000, function() {
+						var val = Math.floor(Math.random() * 6 + 1);
+						//Test
+	 					if ($('#rolldice').val() != "") {
+							val = parseInt($('#rolldice').val());
+						} 
+						$('#dice_result').text(val);
+						move(id, val);
+
+					});
+				} else
+					setMessage("Not your turn!", "red");
+			} else
+				if (terminate) {
+					setMessage("Game Over!", "red");
+				} else {
+					setMessage("You are bankrupt!", "red");
+				}
+		});
+	});
+</script>
+
+	</head>
+
+	<body>
+
+		<div id="name_container">
+		</div>
+
+
+		<div id="deposite_container">
+		</div>
+
+		<div id="card_container">
+		</div>
+
+		<div id="hint_container">
+			<div id="outer">
+			</div>
+			<div id="inner">
+			</div>
+		</div>
+
+		<img id="img0" src="images/bear.png" class="bear" />
+		<img id="img1" src="images/monster.png" class="monster" />
+ 		<img id="img2" src="images/donkey.png" class="donkey" />
+		<img id="img3" src="images/penguin.png" class="penguin" /> 
+
+		<div id="houselist_0">
+
+		</div>
+
+		<div id="houselist_1">
+
+		</div>
+
+		<div id="houselist_2">
+
+		</div>
+
+		<div id="houselist_3">
+
+		</div>
+
+		<!-- background -->
+		<img src="images/game.jpg" id="background" />
+
+
+		<!-- dice -->
+		<button id="dice_btn">
+			Roll
+		</button>
+		<div id="field">
+			<img src="images/dice.png" width="40" height="40" id="dice">
+		</div>
+		<div id="dice_result"></div>
+		<input type="text" id="rolldice" />
+		<div id="history"></div>
+	</body>
+
+</html>

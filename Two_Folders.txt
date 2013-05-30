@@ -1,0 +1,2 @@
+The monopoly_database folder contains the files of database.
+The GameMonopoly folder contains the codes for our website. Detailed readme file is in the folder.

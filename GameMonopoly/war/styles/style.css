@@ -1,0 +1,486 @@
+/*body {
+	background-color: black;
+	font-family: 'Chelsea Market', cursive;
+	font-size: 30px;
+}*/
+/*Login*/
+#login_container {
+	margin: 0px auto;
+	width: 1200px;
+}
+
+#login_btn {
+	position: absolute;
+	margin-top: 430px;
+	margin-left: 560px;
+	height: 45px;
+	width: 150px;
+}
+
+#logininput {
+	position: absolute;
+	margin-top: 360px;
+	margin-left: 475px;
+	height: 43px;
+	width: 260px;
+	font-size: 30px;
+}
+
+/*Waiting*/
+#num_wait {
+	z-index: 999;
+	color: #efead4;
+	font-size: 16px;
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 750px;
+	width: 300px;
+}
+
+#start_btn input {
+	opacity: 0.001;
+	position: absolute;
+	margin-top: 440px;
+	margin-left: 530px;
+	height: 45px;
+	width: 150px;
+}
+
+#container {
+	margin: 0px auto;
+	width: 1200px;
+}
+
+#textinput {
+	position: absolute;
+}
+
+#enter {
+	position: absolute;
+	margin-top: 50px;
+}
+
+#num_wait {
+	z-index: 999;
+	color: #efead4;
+	font-size: 16px;
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 750px;
+	width: 300px;
+}
+
+#start_btn input {
+	opacity: 0.001;
+	position: absolute;
+	margin-top: 440px;
+	margin-left: 530px;
+	height: 45px;
+	width: 150px;
+}
+
+#container {
+	margin: 0px auto;
+	width: 1200px;
+}
+
+#textinput {
+	position: absolute;
+}
+
+#enter {
+	position: absolute;
+	margin-top: 50px;
+}
+
+#blank_1 {
+	visibility: visible;
+	position: absolute;
+	width: 190px;
+	height: 185px;
+	margin-top: 199px;
+	margin-left: 197px;
+}
+
+#blank_2 {
+	position: absolute;
+	width: 190px;
+	height: 185px;
+	margin-top: 199px;
+	margin-left: 402px;
+}
+
+#blank_3 {
+	position: absolute;
+	width: 190px;
+	height: 185px;
+	margin-top: 199px;
+	margin-left: 602px;
+}
+
+#blank_4 {
+	position: absolute;
+	width: 190px;
+	height: 185px;
+	margin-top: 199px;
+	margin-left: 802px;
+}
+
+#name_1 {
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	width: 200px;
+	margin-top: 385px;
+	margin-left: 260px;
+}
+
+#name_2 {
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	width: 200px;
+	margin-top: 385px;
+	margin-left: 460px;
+}
+
+#name_3 {
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	width: 200px;
+	margin-top: 385px;
+	margin-left: 655px;
+}
+
+#name_4 {
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	width: 200px;
+	margin-top: 385px;
+	margin-left: 855px;
+}
+
+#full-screen-background-image {
+	width: 1200px;
+}
+
+/*--------------------------------------------------------------------*/
+/*  1. Main Playing Page: game.html general settins
+/*--------------------------------------------------------------------*/
+body {
+	background-color: black;
+	font-family: 'Chelsea Market', cursive;
+	font-size: 17px;
+	color: white;
+}
+
+/*backgroud*/
+#background {
+	top: 0;
+	left: 0;
+	width: 1400px;
+	margin-bottom: -440px;
+}
+
+/*--------------------------------------------------------------------*/
+/*  characters
+/*--------------------------------------------------------------------*/
+.bear {
+	position: absolute;
+	left: 70px;
+	top: 185px;
+	height: 140px;
+	width: 130px;
+	opacity: 0.95;
+	z-index: 500;
+	/*display:none;*/
+}
+
+.monster {
+	position: absolute;
+	left: 740px;
+	top: 15px;
+	height: 190px;
+	width: 180px;
+	opacity: 0.95;
+	z-index: 500;
+	display:none;
+}
+
+.donkey {
+	position: absolute;
+	left: 985px;
+	top: 435px;
+	height: 150px;
+	width: 120px;
+	opacity: 0.95;
+	z-index: 500;
+	display:none;
+}
+
+.penguin {
+	position: absolute;
+	left: 275px;
+	top: 480px;
+	height: 170px;
+	width: 150px;
+	opacity: 0.95;
+	z-index: 500;
+	display:none;
+}
+
+/*--------------------------------------------------------------------*/
+/*   houses
+/*--------------------------------------------------------------------*/
+#houselist_a {
+	position: absolute;
+}
+
+#houselist_b {
+	position: absolute;
+}
+
+#houselist_c {
+	position: absolute;
+}
+
+/*test button*/
+#button {
+	position: absolute;
+	left: 30%;
+	height: 50px;
+	width: 100px;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-left: 100px;
+}
+
+#button_buy {
+	position: absolute;
+	left: 30%;
+	height: 50px;
+	width: 100px;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-left: 250px;
+}
+
+/*--------------------------------------------------------------------*/
+/*   deposite
+/*--------------------------------------------------------------------*/
+#deposite_container {
+	position: absolute;
+	width: 192px;
+	left: 1300px;
+	top: 120px;
+}
+
+.deposite {
+	font-size: 25px;
+	padding: 32px;
+}
+
+#name_container {
+	position: absolute;
+	width: 192px;
+	left: 1170px;
+	top: 95px;
+}
+
+.name {
+	font-size: 21px;
+	padding: 33px;
+}
+
+#dice_result {
+	font-size: 50px;
+	position: absolute;
+	width: 192px;
+	left: 1290px;
+	top: 730px;
+}
+
+/*--------------------------------------------------------------------*/
+/*  card
+/*--------------------------------------------------------------------*/
+#card_container{
+    position: absolute;
+    left: 20px;
+    width:1200px;
+    top:728px;
+    text-align:center;
+}
+
+.card {
+    box-shadow:none;
+    width: 240px;
+    padding: 1px 20px 1px 20px;
+    border-radius:8px;
+    border:none;
+    background:#2A4A66 url(../images/grit_lines.jpg) left top repeat;
+    color:#ffffff !important;
+    text-shadow:1px 1px 6px #102133;
+    position:relative;
+    display:inline-block; line-height:1.5em; border:none !important;
+    margin-bottom:3px;
+}
+.card:focus {border:none; color:#ffffff;}
+.card:hover {
+    background:#306593 url(../images/grit_lines.jpg) left 60px repeat;
+}
+
+
+button.card{
+  float: left;
+  font-size: 20px;
+  margin-right: 10px;
+  font-family: 'Chelsea Market', cursive;
+}
+
+#history{
+  position: absolute;
+  overflow:scroll;
+  left: 1200px;
+  color: white;
+  top:500px;
+  left: 1190px;
+  width:190px;
+  height: 110px;
+  padding: 5px;
+  font-size: 12px;
+  -webkit-box-shadow: 0px 1px 10px 10px #b7b7b7;
+  -moz-box-shadow: 0px 1px 2px 10px #b7b7b7;
+  box-shadow: 3px 4px 20px 2px #b7b7b7;
+}
+
+/*--------------------------------------------------------------------*/
+/*  dice
+/*--------------------------------------------------------------------*/
+#dice_num {
+	position: absolute;
+	top: 30px;
+}
+
+/*#dice {
+
+  position:absolute;
+  left:1270px;
+  top:385px;
+
+  width: 40px;
+  height: 40px;
+  opacity:0.95;
+  z-index:999;
+  }*/
+#field {
+	top: 240px;
+	left: 1100px;
+	height: 300px;
+	width: 200px;
+	position: relative;
+}
+
+#dice {
+	width: 70px;
+	height: 70px;
+	position: absolute;
+}
+
+/*--------------------------------------------------------------------*/
+/*  1. button styling
+/*--------------------------------------------------------------------*/
+/*
+*   round button
+*/
+#dice_btn {
+  position: absolute;
+   z-index: 1999;
+    top: 635px;
+    left: 1250px;
+    font-family: 'WebSymbolsRegular';
+    color: #cfcfcf;
+    font-size: 27px;
+    cursor: pointer;
+    background: rgb(251,251,251);
+    background: -moz-linear-gradient(top,  rgba(251,251,251,1) 0%, rgba(218,218,218,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(251,251,251,1)), color-stop(100%,rgba(218,218,218,1)));
+    background: -webkit-linear-gradient(top,  rgba(251,251,251,1) 0%,rgba(218,218,218,1) 100%);
+    background: -o-linear-gradient(top,  rgba(251,251,251,1) 0%,rgba(218,218,218,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(251,251,251,1) 0%,rgba(218,218,218,1) 100%);
+    background: linear-gradient(top,  rgba(251,251,251,1) 0%,rgba(218,218,218,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#dadada',GradientType=0 );
+    width: 80px;
+    height: 80px;
+    padding: 20px 0 20px 0;
+    border: none;
+    text-shadow: 0 -3px 3px #cfcfcf, 0 -5px 4px #9d9d9d, 0 -7px 0 #444, 0 2px 0 #fff, 0 2px 6px #fafafa;
+    -moz-box-shadow: inset 0 5px 3px #fff, inset 0 10px 15px #fafafa, 0 6px 3px #555, 0 12px 5px #777, 0 20px 15px #999, 0 0px 30px rgba(0,0,0,0.1), 0 120px 90px rgba(0,0,0,0.2);
+    -webkit-box-shadow: inset 0 5px 3px #fff, inset 0 10px 15px #fafafa, 0 6px 3px #555, 0 12px 5px #777, 0 20px 15px #999, 0 40px 30px rgba(0,0,0,0.1), 0 120px 90px rgba(0,0,0,0.2);
+    box-shadow: inset 0 5px 3px #fff, inset 0 10px 15px #fafafa, 0 6px 3px #555, 0 12px 5px #777, 0 20px 15px #999, 0 40px 30px rgba(0,0,0,0.1), 0 120px 90px rgba(0,0,0,0.2);
+    -moz-border-radius: 250px;
+    -webkit-border-radius: 250px;
+    border-radius: 250px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* on tap (iphone/ipad) don't grey button */
+    /* transitions */
+    -moz-transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+/* on hover switch the gradients  */
+
+#dice_btn:hover {
+    color: #ddd;
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(224,224,224,1)));
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%);
+    background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%);
+    background: linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e0e0e0',GradientType=0 );
+    text-shadow: 0 -3px 3px #ddd, 0 -5px 4px #aaa, 0 -7px 0 #777, 0 2px 0 #fff, 0 2px 6px #fafafa;
+}
+
+/* on active move the button down and change box shadow  */
+
+#dice_btn:active {
+    padding-bottom: 60px;
+    color: #bbb;
+    background: rgb(183,183,183);
+    background: -moz-linear-gradient(top,  rgba(183,183,183,1) 0%, rgba(255,255,255,1) 70%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(183,183,183,1)), color-stop(70%,rgba(255,255,255,1)));
+    background: -webkit-linear-gradient(top,  rgba(183,183,183,1) 0%,rgba(255,255,255,1) 70%);
+    background: -o-linear-gradient(top,  rgba(183,183,183,1) 0%,rgba(255,255,255,1) 70%);
+    background: -ms-linear-gradient(top,  rgba(183,183,183,1) 0%,rgba(255,255,255,1) 70%);
+    background: linear-gradient(top,  rgba(183,183,183,1) 0%,rgba(255,255,255,1) 70%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7b7b7', endColorstr='#ffffff',GradientType=0 );
+    text-shadow: 0 -3px 3px #bbb, 0 -5px 4px #aaa, 0 -7px 0 #777, 0 2px 0 #fff, 0 2px 6px #fafafa;
+    -moz-box-shadow: inset 0 3px 5px #333, inset 0 8px 20px #555, 0 3px 2px #fff, 0 5px 5px #fcfcfc;
+    -webkit-box-shadow: inset 0 3px 5px #333, inset 0 8px 20px #555, 0 3px 2px #fff, 0 5px 5px #fcfcfc;
+    box-shadow: inset 0 3px 5px #333, inset 0 8px 20px #555, 0 3px 2px #fff, 0 5px 5px #fcfcfc;
+}
+
+/*--------------------------------------------------------------------*/
+/*  1. slide styling
+/*--------------------------------------------------------------------*/
+
+#hint_container{
+    z-index: 999;
+    bottom: 85px ;
+    display: none ;
+    left: 270px ;
+    position: absolute;
+    width: 36% ;
+}
+
+#inner {
+     z-index: 999;
+     border: 1px solid #666666 ;
+     border-bottom-width: 0px ;
+     background-color: black;
+     padding: 10px;
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+		<link href='http://fonts.googleapis.com/css?family=Chelsea+Market'
+			rel='stylesheet' type='text/css'>
+		<script type="text/javascript"
+			src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+		<script type="text/javascript" src="js/AjaxRequest.js"></script>
+		<script type="text/javascript" src="js/URI.js"></script>
+		<script type="text/javascript" src="js/Parser.js"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js"></script>
+		<script type="text/javascript">
+	window.setInterval("update()", 1000);
+
+	var totalPlayers = 0;
+	var user = null;
+	var id = null;
+
+	$(document).ready(function() {
+		user = request("user");
+		//var user = $.cookie("user");
+		if (!user) {
+			alert("Please register username!");
+			window.location.href = "login.html";
+		}
+		/*if ($.cookie("id")) {
+			alert("You have already in a game!");
+			window.location.href = "game.html";
+		}*/
+		new net.AjaxRequest(requestRegister(user), register, onerror, "GET");
+	});
+
+	function register() {
+		$xml = xmlParse(this.req.responseText);
+		totalPlayers = $xml.find("total_player_num").text();
+		id = $xml.find("your_id").text();
+		//$.cookie("id", $xml.find("your_id").text());
+		new net.AjaxRequest(requestWaiting(), waiting, onerror, "GET");
+	}
+	function waiting() {
+		$xml = xmlParse(this.req.responseText);
+		$playerNames = $xml.find("player_name");
+		$playerNames.each(function(index) {
+			$('#name_' + (index + 1)).text($(this).text());
+			$('#blank_' + (index + 1)).hide();
+		});
+		var gameStatus = $xml.find("game_begin").text();
+		if (gameStatus == "N") {
+			if (totalPlayers != 0) {
+				$('#num_wait').text(
+						"Still waiting for "
+								+ (totalPlayers - $playerNames.size())
+								+ " players......");
+			}
+		} else if (gameStatus == "Y") {
+			$('#num_wait').text("Game is starting......");
+			window.location.href = "game.html?id=" + id + "&nocache=" + new Date().getTime();
+		} else {
+			alert("Error state! Game need to restart!");
+			window.location.href = "login.html";
+		}
+	}
+	function update() {
+		if (user) {
+			new net.AjaxRequest(requestWaiting(), waiting, onerror, "GET");
+		}
+	}
+</script>
+	</head>
+
+	<body>
+
+		<div id="container">
+
+			<!-- players blank images -->
+			<img id="blank_1" src="images/waiting.gif">
+			<img id="blank_2" src="images/waiting.gif">
+			<img id="blank_3" src="images/waiting.gif">
+			<img id="blank_4" src="images/waiting.gif">
+
+			<!-- hint words -->
+			<div id="num_wait">
+				Waiting for players......
+			</div>
+
+			<!-- start game button -->
+			<form name="waiting-form" class="waiting-form" action="login.html"
+				method="post">
+
+				<!-- players name -->
+				<div id="name_1">
+					Player 1
+				</div>
+				<div id="name_2">
+					Player 2
+				</div>
+				<div id="name_3">
+					Player 3
+				</div>
+				<div id="name_4">
+					Player 4
+				</div>
+
+				<div id="start_btn">
+					<input type="submit" />
+				</div>
+			</form>
+
+			<!-- background -->
+			<img src="images/lobby.jpg" id="full-screen-background-image" />
+
+		</div>
+
+	</body>
+
+</html>

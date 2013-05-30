@@ -1,0 +1,4050 @@
+<Athletes>
+	<Athlete>
+		<id>1</id>
+		<name>Paavo Johannes Aaltonen</name>
+		<country>Finland</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>2</id>
+		<name>Kjetil André Aamodt Nickname(s): Babyshark</name>
+		<country>Norway</country>
+		<sport>Alpine Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>3</id>
+		<name>Agostino Abbagnale</name>
+		<country>Italy</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>4</id>
+		<name>Nathan Ghar-Jun Adrian</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>5</id>
+		<name>Charles Benedict "Ben" Ainslie</name>
+		<country>Great Britain</country>
+		<sport>Sailing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>6</id>
+		<name>Richard James Allen</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>7</id>
+		<name>Thomas Alsgaard (Alsgård-)</name>
+		<country>Norway</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>8</id>
+		<name>Simona Amânar (-Tab?r?) Nickname(s): Simi</name>
+		<country>Romania</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>9</id>
+		<name>Simon Ammann Nickname(s): Simi</name>
+		<country>Switzerland</country>
+		<sport>Ski Jumping</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>10</id>
+		<name>An Hyeon-Su</name>
+		<country>South Korea</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>11</id>
+		<name>Hjalmar Johan Andersen Nickname(s): Hjallis</name>
+		<country>Norway</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>12</id>
+		<name>Agneta Monica Andersson</name>
+		<country>Sweden</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>13</id>
+		<name>Nikolay Yefimovich Andrianov</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>7</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>14</id>
+		<name>Vladimir Nikolayevich Artyomov</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>15</id>
+		<name>Evelyn Ashford (-Washington)</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>16</id>
+		<name>Polina Hryhorivna Astakhova</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>17</id>
+		<name>Albert Azaryan</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>18</id>
+		<name>Shirley Frances Babashoff</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>19</id>
+		<name>András Balczó</name>
+		<country>Hungary</country>
+		<sport>Modern Pentathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>20</id>
+		<name>Félicia Michele Sylviane Ballanger (-Vetu)</name>
+		<country>France</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>21</id>
+		<name>Ivar Eugen Ballangrud (Eriksen-)</name>
+		<country>Norway</country>
+		<sport>Speed Skating</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>22</id>
+		<name>Ludger Beerbaum</name>
+		<country>West Germany,  Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>23</id>
+		<name>Kenenisa Bekele Beyecha</name>
+		<country>Ethiopia</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Africa</continent>
+	</Athlete>
+	<Athlete>
+		<id>24</id>
+		<name>Regla Maritza Bell McKenzie</name>
+		<country>Cuba</country>
+		<sport>Volleyball</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>25</id>
+		<name>Melissa Louise Belote (-Hamlin, -Ripley)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>26</id>
+		<name>Tibor Benedek</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>27</id>
+		<name>Brooke Marie Bennett</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>28</id>
+		<name>Tibor Berczelly (Berczeller-)</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>29</id>
+		<name>Jack Beresford, Jr.</name>
+		<country>Great Britain</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>30</id>
+		<name>Laura Kay Berg</name>
+		<country>United States</country>
+		<sport>Softball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>31</id>
+		<name>Dmitry Vladimirovich Bilozerchev</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>32</id>
+		<name>Matthew Nicholas "Matt" Biondi</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>8</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>33</id>
+		<name>Péter Biros</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>34</id>
+		<name>Marit Bjørgen</name>
+		<country>Norway</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>35</id>
+		<name>Ole Einar Bjørndalen</name>
+		<country>Norway</country>
+		<sport>Biathlon</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>36</id>
+		<name>Bonnie Kathleen Blair (-Cruikshank)</name>
+		<country>United States</country>
+		<sport>Speed Skating</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>37</id>
+		<name>Francina Elsje "Fanny" Blankers-Koen</name>
+		<country>Netherlands</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>38</id>
+		<name>Ethelda Marguerite Bleibtrey (-Schlatke)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>39</id>
+		<name>Kay Bluhm</name>
+		<country>East Germany,  Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>40</id>
+		<name>Svetlana Leonidovna Boginskaya</name>
+		<country>Soviet Union,  Unified Team,  Belarus</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>41</id>
+		<name>Usain St. Leo Bolt Nickname(s): Lightning Bolt</name>
+		<country>Jamaica</country>
+		<sport>Athletics</sport>
+		<gold>5</gold>
+		<continent>Africa</continent>
+	</Athlete>
+	<Athlete>
+		<id>42</id>
+		<name>Kathrin Boron</name>
+		<country>Germany</country>
+		<sport>Rowing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>43</id>
+		<name>Jennifer Lori Botterill</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>44</id>
+		<name>Klavdiya Sergeyevna Boyarskikh</name>
+		<country>Soviet Union</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>45</id>
+		<name>G. Alberto Braglia</name>
+		<country>Italy</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>46</id>
+		<name>Siegfried Brietzke</name>
+		<country>East Germany</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>47</id>
+		<name>Valerie Ann Brisco-Hooks</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>48</id>
+		<name>Enrico Bruna</name>
+		<country>Italy</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>49</id>
+		<name>Olga Aleksandrovna Brusnikina</name>
+		<country>Russia</country>
+		<sport>Synchronized Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>50</id>
+		<name>Olha Arkadiïvna Bryzhina (Vladykina-)</name>
+		<country>Soviet Union,  Unified Team</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>51</id>
+		<name>Michael Jay "Mike" Burton Nickname(s): Mr. Machine</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>52</id>
+		<name>Veronica Angella Campbell-Brown</name>
+		<country>Jamaica</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Africa</continent>
+	</Athlete>
+	<Athlete>
+		<id>53</id>
+		<name>Richard John "Rick" Carey</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>54</id>
+		<name>Gustaf Vilhelm Carlberg</name>
+		<country>Sweden</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>55</id>
+		<name>V?ra ?áslavská (-Odlo?ilová)</name>
+		<country>Czechoslovakia</country>
+		<sport>Gymnastics</sport>
+		<gold>7</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>56</id>
+		<name>Philippe L. E. Cattiau</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>57</id>
+		<name>Tracy Ann Caulkins (-Stockwell)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>58</id>
+		<name>Giorgio Cesana</name>
+		<country>Italy</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>59</id>
+		<name>Dhyan Chand Bais Nickname(s): Dadda / The Wizard of Hockey</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>60</id>
+		<name>Robert Charpentier</name>
+		<country>France</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>61</id>
+		<name>Chen Ruolin</name>
+		<country>China</country>
+		<sport>Diving</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>62</id>
+		<name>Chen Yibing</name>
+		<country>China</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>63</id>
+		<name>Yuliya Anatolyevna Chepalova</name>
+		<country>Russia</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>64</id>
+		<name>Viktor Ivanovych Chukarin</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>7</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>65</id>
+		<name>Serhiy Oleksiyovych Chukhrai</name>
+		<country>Soviet Union</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>66</id>
+		<name>Stephen Edward "Steve" Clark</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>67</id>
+		<name>Leslie Walter Claudius</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>68</id>
+		<name>Edmond Cloetens</name>
+		<country>Belgium</country>
+		<sport>Archery</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>69</id>
+		<name>Nadia Elena Com?neci (-Conner)</name>
+		<country>Romania</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>70</id>
+		<name>Deborah Compagnoni</name>
+		<country>Italy</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>71</id>
+		<name>Giancarlo Cornaggia-Medici Peterbelli</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>72</id>
+		<name>Marlenis Costa Blanco</name>
+		<country>Cuba</country>
+		<sport>Volleyball</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>73</id>
+		<name>Paul Vincent Costello</name>
+		<country>United States</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>74</id>
+		<name>Natalie Anne Coughlin</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>75</id>
+		<name>Ian Lowell Crocker</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>76</id>
+		<name>Elizabeth Alyse "Betty" Cuthbert</name>
+		<country>Australia</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>77</id>
+		<name>Georgeta Damian-Andrunache</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>78</id>
+		<name>Charles Meldrum "Charlie" Daniels</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>79</id>
+		<name>Tamás Darnyi</name>
+		<country>Hungary</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>80</id>
+		<name>Glenn Ashby Davis Nickname(s): Jeep</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>81</id>
+		<name>Joshua Clark "Josh" Davis</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>82</id>
+		<name>Vitaly Semyonovich Davydov</name>
+		<country>Soviet Union</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>83</id>
+		<name>Anastasiya Semyonovna Davydova</name>
+		<country>Russia</country>
+		<sport>Synchronized Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>84</id>
+		<name>Bjørn Erlend Dæhlie</name>
+		<country>Norway</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>8</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>85</id>
+		<name>Inge de Bruijn Nickname(s): Inky, Invincible Inky</name>
+		<country>Netherlands</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>86</id>
+		<name>Henri Jéhan Éric Joseph Marie de Buhan Nickname(s): Henry</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>87</id>
+		<name>Louis Verrant Gabriel "Georges" Le Bailly de la Falaise</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>88</id>
+		<name>Donna Elizabeth de Varona (-Pinto)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>89</id>
+		<name>Maxime Omer Mathieu "Max" Décugis</name>
+		<country>France</country>
+		<sport>Tennis</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>90</id>
+		<name>Giuseppe Delfino</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>91</id>
+		<name>Deng Yaping</name>
+		<country>China</country>
+		<sport>Table Tennis</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>92</id>
+		<name>Yolanda Gail L. Devers (-Roberts)</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>93</id>
+		<name>Tirunesh Dibaba Keneni Nickname(s): Baby Faced Destroyer</name>
+		<country>Ethiopia</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Africa</continent>
+	</Athlete>
+	<Athlete>
+		<id>94</id>
+		<name>Klaus Dibiasi</name>
+		<country>Italy</country>
+		<sport>Diving</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>95</id>
+		<name>William Harrison Dillard Nickname(s): Bones</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>96</id>
+		<name>Pyrros Dimas</name>
+		<country>Greece</country>
+		<sport>Weightlifting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>97</id>
+		<name>Andreas Dittmer</name>
+		<country>Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>98</id>
+		<name>Aleksandr Nikolayevich Dityatin</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>99</id>
+		<name>Christian d'Oriola</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>100</id>
+		<name>Reginald Frank "Reggie" Doherty</name>
+		<country>Great Britain</country>
+		<sport>Tennis</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>101</id>
+		<name>Natasa Douchev-Janics</name>
+		<country>Serbia and Montenegro,  Hungary</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>102</id>
+		<name>Roger François Ducret</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>103</id>
+		<name>Eskild Balschmidt Ebbesen</name>
+		<country>Denmark</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>104</id>
+		<name>Bärbel Eckert-Wöckel</name>
+		<country>East Germany</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>105</id>
+		<name>Teresa Edwards</name>
+		<country>United States</country>
+		<sport>Basketball</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>106</id>
+		<name>Krisztina Egerszegi Nickname(s): Egér</name>
+		<country>Hungary</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>107</id>
+		<name>Paul Bert Elvstrøm</name>
+		<country>Denmark</country>
+		<sport>Sailing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>108</id>
+		<name>Kornelia Ender (-Matthes, -Grummt) Nickname(s): Konni</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>109</id>
+		<name>Yukio Endo</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>110</id>
+		<name>Karin Enke-Kania (-Busch-, -Richter)</name>
+		<country>East Germany</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>111</id>
+		<name>Tony Estanguet</name>
+		<country>France</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>112</id>
+		<name>Janet Beth Evans</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>113</id>
+		<name>Raymond Clarence "Ray" Ewry Nickname(s): R.C.</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>10</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>114</id>
+		<name>George Louis (Georg Ludwig Friedrich Julius-) Eyser (Eÿser-)</name>
+		<country>United States</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>115</id>
+		<name>Dennis Fenton</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>116</id>
+		<name>Csaba Fenyvesi</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>117</id>
+		<name>Ian Gordon Ferguson Nickname(s): Ferg</name>
+		<country>New Zealand</country>
+		<sport>Canoeing</sport>
+		<gold>4</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>118</id>
+		<name>Lisa M. Fernandez (-Lujan)</name>
+		<country>United States</country>
+		<sport>Softball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>119</id>
+		<name>Jens Fiedler</name>
+		<country>Germany</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>120</id>
+		<name>Anatoly Vasilyevich Firsov</name>
+		<country>Soviet Union</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>121</id>
+		<name>Sven Fischer</name>
+		<country>Germany</country>
+		<sport>Biathlon</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>122</id>
+		<name>Birgit Fischer-Schmidt</name>
+		<country>East Germany,  Germany</country>
+		<sport>Canoeing</sport>
+		<gold>8</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>123</id>
+		<name>Morris "Bud" Fisher</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>124</id>
+		<name>John Joseph Flanagan</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>125</id>
+		<name>Alfred Flatow</name>
+		<country>Germany</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>126</id>
+		<name>Ramón Fonst Segundo Nickname(s): El nunca Segundo / El Zurdo</name>
+		<country>Cuba</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>127</id>
+		<name>Emilio Fontanella</name>
+		<country>Italy</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>128</id>
+		<name>Ranganandhan Francis</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>129</id>
+		<name>Melissa Jeanette "Missy" Franklin</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>130</id>
+		<name>Dawn Lorraine Fraser</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>131</id>
+		<name>Karl Telford Frederick</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>132</id>
+		<name>Gert Fridolf Fredriksson</name>
+		<country>Sweden</country>
+		<sport>Canoeing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>133</id>
+		<name>Konrad Frey</name>
+		<country>Germany</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>134</id>
+		<name>Anna Christina "Anni" Friesinger-Postma Nickname(s): Super Sexy Anni</name>
+		<country>Germany</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>135</id>
+		<name>Ugo Frigerio</name>
+		<country>Italy</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>136</id>
+		<name>Fu Mingxia</name>
+		<country>China</country>
+		<sport>Diving</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>137</id>
+		<name>Jen? Fuchs (-Fekete)</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>138</id>
+		<name>Liliana Gafencu</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>139</id>
+		<name>Marc Gagnon</name>
+		<country>Canada</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>140</id>
+		<name>Ambrose "Rowdy" Gaines, IV</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>141</id>
+		<name>Lucien Alphonse Paul Gaudin</name>
+		<country>France</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>142</id>
+		<name>Giulio Gaudini</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>143</id>
+		<name>Nina Vasilyevna Gavrylyuk</name>
+		<country>Soviet Union,  Russia</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>144</id>
+		<name>Elena Georgescu-Nedelcu</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>145</id>
+		<name>Aladár Gerevich (-Gerei)</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>7</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>146</id>
+		<name>Bernhard Germeshausen</name>
+		<country>East Germany</country>
+		<sport>Bobsleigh</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>147</id>
+		<name>Drew Cameron Ginn</name>
+		<country>Australia</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>148</id>
+		<name>Galina Yevgenyevna Gorokhova</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>149</id>
+		<name>Felix Gottwald</name>
+		<country>Austria</country>
+		<sport>Nordic Combined</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>150</id>
+		<name>Shane Elizabeth Gould (-Innis)</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>151</id>
+		<name>Gillis Emanuel Grafström</name>
+		<country>Sweden</country>
+		<sport>Figure Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>152</id>
+		<name>Michael Greis Nickname(s): Michi</name>
+		<country>Germany</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>153</id>
+		<name>Matthew "Matt" Grevers</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>154</id>
+		<name>Delorez Florence Griffith Joyner Nickname(s): Flo-Jo</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>155</id>
+		<name>Yevgeny Romanovich Grishin</name>
+		<country>Soviet Union</country>
+		<sport>Speed Skating</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>156</id>
+		<name>Michael Groß Nickname(s): The Albatross</name>
+		<country>West Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>157</id>
+		<name>Ricco Groß</name>
+		<country>Germany</country>
+		<sport>Biathlon</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>158</id>
+		<name>Johan Hagbart Pedersen Grøttumsbraaten</name>
+		<country>Norway</country>
+		<sport>Nordic Combined</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>159</id>
+		<name>Ingrid Gulbin-Engel-Krämer</name>
+		<country>Germany,  East Germany</country>
+		<sport>Diving</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>160</id>
+		<name>Guo Jingjing</name>
+		<country>China</country>
+		<sport>Diving</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>161</id>
+		<name>Sven Tomas Gustafson</name>
+		<country>Sweden</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>162</id>
+		<name>Torsten René Gutsche</name>
+		<country>Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>163</id>
+		<name>Dezs? Gyarmati</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>164</id>
+		<name>Grant George Hackett</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>165</id>
+		<name>Georg Hackl Nickname(s): Hackl Schorsch</name>
+		<country>West Germany,  Germany</country>
+		<sport>Luge</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>166</id>
+		<name>Charles Archibald "Archie" Hahn Nickname(s): The Milwaukee Meteor</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>167</id>
+		<name>Nicole Lee Haislett (-Bacher)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>168</id>
+		<name>Veikko Johannes Hakulinen</name>
+		<country>Finland</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>169</id>
+		<name>Gary Wayne Hall, Jr.</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>170</id>
+		<name>Halvard Hanevold</name>
+		<country>Norway</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>171</id>
+		<name>Brendan Joseph Hansen</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>172</id>
+		<name>Lori D. Harrigan</name>
+		<country>United States</country>
+		<sport>Softball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>173</id>
+		<name>Thorleif Haug (Johnsen-) Nickname(s): Hauer'n</name>
+		<country>Norway</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>174</id>
+		<name>Rechelle Margaret Hawkes</name>
+		<country>Australia</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>175</id>
+		<name>Michael Steward "Mike" Heath</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>176</id>
+		<name>Kathleen Joan Heddle</name>
+		<country>Canada</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>177</id>
+		<name>Jayna Hefford</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>178</id>
+		<name>Anton Heida</name>
+		<country>United States</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>179</id>
+		<name>Eric Arthur Heiden</name>
+		<country>United States</country>
+		<sport>Speed Skating</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>180</id>
+		<name>Rüdiger Helm</name>
+		<country>East Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>181</id>
+		<name>John Frederick Hencken</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>182</id>
+		<name>Sonja Henie (-Topping, -Gardiner, -Onstad)</name>
+		<country>Norway</country>
+		<sport>Figure Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>183</id>
+		<name>Jan Margo Henne (-Hawkins)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>184</id>
+		<name>Jodie Clare Henry</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>185</id>
+		<name>Charles Buchanan "Charlie" Hickcox</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>186</id>
+		<name>Harry Livingston Hillman, Jr.</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>187</id>
+		<name>Pavol Hochschorner</name>
+		<country>Slovakia</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>188</id>
+		<name>Peter Hochschorner</name>
+		<country>Slovakia</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>189</id>
+		<name>Nancy Lynn Hogshead (-Makar)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>190</id>
+		<name>Knut Holmann</name>
+		<country>Norway</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>191</id>
+		<name>Lemuel Clarence "Bud" Houser</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>192</id>
+		<name>Matilda "Lida" Howell (Scott-)</name>
+		<country>United States</country>
+		<sport>Archery</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>193</id>
+		<name>Andrew Hoy</name>
+		<country>Australia</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>194</id>
+		<name>Christopher Andrew "Chris" Hoy Nickname(s): The Real McHoy / His Royal Hoyness</name>
+		<country>Great Britain</country>
+		<sport>Cycling</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>195</id>
+		<name>Veikko Aarne Aleks Huhtanen Nickname(s): Veke</name>
+		<country>Finland</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>196</id>
+		<name>Marcus Latimer Hurley</name>
+		<country>United States</country>
+		<sport>Cycling</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>197</id>
+		<name>Doina Ignat</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>198</id>
+		<name>Vyacheslav Nikolayevich Ivanov</name>
+		<country>Soviet Union</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>199</id>
+		<name>Joseph "Joe" Jackson</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>200</id>
+		<name>Thomas Michael "Tom" Jager</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>201</id>
+		<name>John Arthur Jarvis</name>
+		<country>Great Britain</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>202</id>
+		<name>Jeon I-Gyeong</name>
+		<country>South Korea</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>203</id>
+		<name>Edy Sixten Jernberg</name>
+		<country>Sweden</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>204</id>
+		<name>Jin Jong-O</name>
+		<country>South Korea</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>205</id>
+		<name>Jin Seon-Yu</name>
+		<country>South Korea</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>206</id>
+		<name>Ivar Valentin Johansson</name>
+		<country>Sweden</country>
+		<sport>Wrestling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>207</id>
+		<name>Michael Duane Johnson Nickname(s): Superman, The Duck</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>208</id>
+		<name>Leisel Marie Jones</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>209</id>
+		<name>Jacqueline "Jackie" Joyner-Kersee</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>210</id>
+		<name>Endre Kabos</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>211</id>
+		<name>Duke Paoa Kahino Makoe Hulikohoa Kahanamoku</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>212</id>
+		<name>Akakios Kakiasvili</name>
+		<country>Unified Team,  Greece</country>
+		<sport>Weightlifting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>213</id>
+		<name>Zoltán Kammerer</name>
+		<country>Hungary</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>214</id>
+		<name>Aleksandr Aleksandrovich Karelin</name>
+		<country>Soviet Union,  Unified Team,  Russia</country>
+		<sport>Wrestling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>215</id>
+		<name>György Kárpáti</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>216</id>
+		<name>Rudolf Kárpáti</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>217</id>
+		<name>Pertti Johannes Karppinen Nickname(s): Pepe</name>
+		<country>Finland</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>218</id>
+		<name>Tamás Kásás</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>219</id>
+		<name>Sawao Kato</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>8</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>220</id>
+		<name>Tatyana Vasilyevna Kazankina (-Kovalenko)</name>
+		<country>Soviet Union</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>221</id>
+		<name>Ágnes Keleti-Sárkány (Klein)</name>
+		<country>Hungary</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>222</id>
+		<name>Rebecca D. "Becky" Kellar (-Duke)</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>223</id>
+		<name>John Brenden "Jack" Kelly, Sr.</name>
+		<country>United States</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>224</id>
+		<name>Eizo Kenmotsu</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>225</id>
+		<name>Sergey Vladimirovich Kharkov</name>
+		<country>Soviet Union,  Russia</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>226</id>
+		<name>Andrey Valentinovich Khomutov</name>
+		<country>Soviet Union,  Unified Team</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>227</id>
+		<name>Lyudmila Iosifovna Khvedosyuk-Pinayeva</name>
+		<country>Soviet Union</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>228</id>
+		<name>Jean-Claude Killy</name>
+		<country>France</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>229</id>
+		<name>Kim Gi-Hun</name>
+		<country>South Korea</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>230</id>
+		<name>Nellya Vladimirovna "Nelli" Kim (-Achasov)</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>231</id>
+		<name>Kim Su-Nyeong</name>
+		<country>South Korea</country>
+		<sport>Archery</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>232</id>
+		<name>Charles Frederick "Karch" Kiraly</name>
+		<country>United States</country>
+		<sport>Beach Volleyball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>233</id>
+		<name>Mark Kirchner</name>
+		<country>Germany</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>234</id>
+		<name>Marja-Liisa Kirvesniemi-Hämäläinen Nickname(s): Maisa</name>
+		<country>Finland</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>235</id>
+		<name>Mariya Aleksandrovna Kiselyova</name>
+		<country>Russia</country>
+		<sport>Synchronized Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>236</id>
+		<name>Gergely "Gerg?" Kiss</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>237</id>
+		<name>Kosuke Kitajima</name>
+		<country>Japan</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>238</id>
+		<name>Reiner Klimke</name>
+		<country>Germany,  West Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>239</id>
+		<name>Yana Oleksandrivna Klochkova</name>
+		<country>Ukraine</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>240</id>
+		<name>Johan Pietari "Hannes" Kolehmainen</name>
+		<country>Finland</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>241</id>
+		<name>Olga Valentinovna Korbut (-Bortkevich, -Voynich)</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>242</id>
+		<name>Robert Marek Korzeniowski</name>
+		<country>Poland</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>243</id>
+		<name>Johann Olav Koss</name>
+		<country>Norway</country>
+		<sport>Speed Skating</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>244</id>
+		<name>Janica Kosteli?</name>
+		<country>Croatia</country>
+		<sport>Alpine Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>245</id>
+		<name>Katalin Kovács</name>
+		<country>Hungary</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>246</id>
+		<name>Pál Ádám Kovács</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>247</id>
+		<name>Alvin Christian "Al" Kraenzlein</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>248</id>
+		<name>Barbara Krause (-Wanja)</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>249</id>
+		<name>Lenny Krayzelburg</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>250</id>
+		<name>Ranomi Kromowidjojo</name>
+		<country>Netherlands</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>251</id>
+		<name>Viktor Alekseyevich Krovopuskov</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>252</id>
+		<name>Galina Alekseyevna Kulakova</name>
+		<country>Soviet Union</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>253</id>
+		<name>Gy?z? Kulcsár</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>254</id>
+		<name>Kevin Kuske</name>
+		<country>Germany</country>
+		<sport>Bobsleigh</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>255</id>
+		<name>Viktor Grigoryevich Kuzkin</name>
+		<country>Soviet Union</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>256</id>
+		<name>Samppa Kalevi Lajunen</name>
+		<country>Finland</country>
+		<sport>Nordic Combined</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>257</id>
+		<name>Alfred Page "Al" Lane Nickname(s): The Boy Wonder</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>258</id>
+		<name>André Lange</name>
+		<country>Germany</country>
+		<sport>Bobsleigh</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>259</id>
+		<name>Larysa Semenivna Latynina (Diriy-)</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>9</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>260</id>
+		<name>Andrey Ivanovich Lavrov</name>
+		<country>Soviet Union,  Unified Team,  Russia</country>
+		<sport>Handball</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>261</id>
+		<name>Larisa Yevgenyevna Lazutina (Ptitsyna-)</name>
+		<country>Unified Team,  Russia</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>262</id>
+		<name>Willis Augustus Lee, Jr.</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>263</id>
+		<name>Eric Otto Valdemar Lemming</name>
+		<country>Sweden</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>264</id>
+		<name>Lisbeth Constance "Libby" Lenton-Trickett</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>265</id>
+		<name>Lisa Deshawn Leslie (-Lockwood)</name>
+		<country>United States</country>
+		<sport>Basketball</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>266</id>
+		<name>Frederick Carleton "Carl" Lewis</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>9</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>267</id>
+		<name>Steven Earl "Steve" Lewis</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>268</id>
+		<name>Jason Edward Lezak</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>269</id>
+		<name>Li Ning</name>
+		<country>China</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>270</id>
+		<name>Li Xiaopeng</name>
+		<country>China</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>271</id>
+		<name>Einar Liberg</name>
+		<country>Norway</country>
+		<sport>Shooting</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>272</id>
+		<name>James Davies "Jim" Lightbody</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>273</id>
+		<name>Ole Andreas Lilloe-Olsen</name>
+		<country>Norway</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>274</id>
+		<name>Ryan Lochte</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>275</id>
+		<name>Gregory Efthimios "Greg" Louganis</name>
+		<country>United States</country>
+		<sport>Diving</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>276</id>
+		<name>Alejandrina Mireya Luis Hernández</name>
+		<country>Cuba</country>
+		<sport>Volleyball</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>277</id>
+		<name>Ma Lin</name>
+		<country>China</country>
+		<sport>Table Tennis</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>278</id>
+		<name>Christopher Paul MacDonald</name>
+		<country>New Zealand</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>279</id>
+		<name>Helene E. Madison</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>280</id>
+		<name>Luigi Maiocco</name>
+		<country>Italy</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>281</id>
+		<name>Edoardo Mangiarotti</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>282</id>
+		<name>Valentyn Hryhorovych Mankin</name>
+		<country>Soviet Union</country>
+		<sport>Sailing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>283</id>
+		<name>Eero Antero Mäntyranta Nickname(s): Mänty, Mister Seefeld</name>
+		<country>Finland</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>284</id>
+		<name>Angelina L. "Angel" Martino (Myers-, -Sims)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>285</id>
+		<name>Paul Michel Pierre Adrien Masson (-Nossam)</name>
+		<country>France</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>286</id>
+		<name>Hendrika Wilhelmina "Rie" Mastenbroek (-Kuiper, -de Wit)</name>
+		<country>Netherlands</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>287</id>
+		<name>Roland Matthes</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>288</id>
+		<name>Misty Erie May-Treanor Nickname(s): The Turtle</name>
+		<country>United States</country>
+		<sport>Beach Volleyball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>289</id>
+		<name>Marnie Elizabeth McBean</name>
+		<country>Canada</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>290</id>
+		<name>Patricia Joan "Pat" McCormick (Keller-)</name>
+		<country>United States</country>
+		<sport>Diving</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>291</id>
+		<name>James Price "Jimmy" McLane, Jr.</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>292</id>
+		<name>Richard John Hannay Meade</name>
+		<country>Great Britain</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>293</id>
+		<name>Mary Terstegge Meagher (-Plant)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>294</id>
+		<name>Aleksandr Vasilyevich Medved</name>
+		<country>Soviet Union</country>
+		<sport>Wrestling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>295</id>
+		<name>Caren Metschuck (-Mahn)</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>296</id>
+		<name>Deborah Elizabeth "Debbie" Meyer</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>297</id>
+		<name>Georg "Georges" Miez</name>
+		<country>Switzerland</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>298</id>
+		<name>Tamás Molnár</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>299</id>
+		<name>James Paul "Jim" Montgomery</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>300</id>
+		<name>Pedro Pablo Morales, Jr.</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>301</id>
+		<name>Daniel Yves Morelon</name>
+		<country>France</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>302</id>
+		<name>Thomas Morgenstern</name>
+		<country>Austria</country>
+		<sport>Ski Jumping</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>303</id>
+		<name>Volodymyr Ivanovych Morozov</name>
+		<country>Soviet Union</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>304</id>
+		<name>Bobby Joe Morrow</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>305</id>
+		<name>Valentin Ivanovich Muratov</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>306</id>
+		<name>Halil (Huben-) Mutlu (Hubenov-)</name>
+		<country>Turkey</country>
+		<sport>Weightlifting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>307</id>
+		<name>John Phillips Naber</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>308</id>
+		<name>Aldo Nadi</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>309</id>
+		<name>Nedo Nadi</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>310</id>
+		<name>Akinori Nakayama</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>6</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>311</id>
+		<name>Harald Natvig</name>
+		<country>Norway</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>312</id>
+		<name>Vladimir Aliverovich Nazlymov</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>313</id>
+		<name>Meinhard Nehmer</name>
+		<country>East Germany</country>
+		<sport>Bobsleigh</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>314</id>
+		<name>Alexandra Lynn "Sandy" Neilson (-Bell)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>315</id>
+		<name>Aleksey Yuryevich Nemov</name>
+		<country>Russia</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>316</id>
+		<name>Romeo Neri</name>
+		<country>Italy</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>317</id>
+		<name>Gunda Niemann-Stirnemann-Kleemann</name>
+		<country>East Germany,  Germany</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>318</id>
+		<name>Tadahiro Nomura</name>
+		<country>Japan</country>
+		<sport>Judo</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>319</id>
+		<name>Martha (Märta) Maria Norelius (-McAllister, -Wright, -Brown)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>320</id>
+		<name>Lars Daniel Norling</name>
+		<country>Sweden</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>321</id>
+		<name>Anke Nothnagel-von Seck</name>
+		<country>East Germany,  Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>322</id>
+		<name>Yelena Dmitriyevna Novikova-Belova</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>323</id>
+		<name>Paavo Johannes Nurmi Nickname(s): Lentävä suomalainen, Haamusuomalainen, Suuri vaikenija</name>
+		<country>Finland</country>
+		<sport>Athletics</sport>
+		<gold>9</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>324</id>
+		<name>Matti Ensio Nykänen (-Paanala) Nickname(s): Masa, Nykä, Nykäs-Matti, Masa-hiiri</name>
+		<country>Finland</country>
+		<sport>Ski Jumping</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>325</id>
+		<name>Leah Marie O'Brien-Amico</name>
+		<country>United States</country>
+		<sport>Softball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>326</id>
+		<name>Alfred Adolph "Al" Oerter, Jr.</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>327</id>
+		<name>Elisabeta Oleniuc-Lip?</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>328</id>
+		<name>Jon C. Olsen</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>329</id>
+		<name>Otto Martin Olsen</name>
+		<country>Norway</country>
+		<sport>Shooting</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>330</id>
+		<name>Takashi Ono</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>331</id>
+		<name>Carl Townsend Osburn</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>332</id>
+		<name>Kristin Otto</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>333</id>
+		<name>Caroline Ouellette</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>334</id>
+		<name>James Cleveland "Jesse" Owens Nickname(s): The Buckeye Bullet</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>335</id>
+		<name>Charles Ferdinand Pahud de Mortanges</name>
+		<country>Netherlands</country>
+		<sport>Equestrianism</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>336</id>
+		<name>László Papp</name>
+		<country>Hungary</country>
+		<sport>Boxing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>337</id>
+		<name>Vladimir Vladimirovich Parfenovich</name>
+		<country>Soviet Union</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>338</id>
+		<name>Park Seong-Hyeon</name>
+		<country>South Korea</country>
+		<sport>Archery</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>339</id>
+		<name>Ivan Patzaichin</name>
+		<country>Romania</country>
+		<sport>Canoeing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>340</id>
+		<name>Carlo Pavesi</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>341</id>
+		<name>Claudia Pechstein</name>
+		<country>Germany</country>
+		<sport>Speed Skating</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>342</id>
+		<name>Aaron Wells Peirsol</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>343</id>
+		<name>Marie-José Juliana Pérec (Hontas-)</name>
+		<country>France</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>344</id>
+		<name>Tatyana Dmitriyevna Petrenko-Samusenko</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>345</id>
+		<name>Michael Fred Phelps, II Nickname(s): The Baltimore Bullet</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>18</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>346</id>
+		<name>Paul Henry Pilgrim</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>347</id>
+		<name>Matthew Clive Pinsent</name>
+		<country>Great Britain</country>
+		<sport>Rowing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>348</id>
+		<name>Cherie Piper</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>349</id>
+		<name>Constan?a Pipot?-Burcic?</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>350</id>
+		<name>Andrea Pollack (-Pinske)</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>351</id>
+		<name>C?t?lina Ponor</name>
+		<country>Romania</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>352</id>
+		<name>Aleksandr Vladimirovich Popov</name>
+		<country>Unified Team,  Russia</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>353</id>
+		<name>Ramona Portwich</name>
+		<country>East Germany,  Germany</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>354</id>
+		<name>Stanislav Alekseyevich Pozdnyakov</name>
+		<country>Unified Team,  Russia</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>355</id>
+		<name>Tamara Natanovna Press</name>
+		<country>Soviet Union</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>356</id>
+		<name>Meyer Prinstein</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>357</id>
+		<name>Oreste Puliti</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>358</id>
+		<name>Paolo Francesco "Paul" Radmilovic Nickname(s): Raddy</name>
+		<country>Great Britain</country>
+		<sport>Water Polo</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>359</id>
+		<name>Aleksandr Pavlovich Ragulin</name>
+		<country>Soviet Union</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>360</id>
+		<name>László Rajcsányi</name>
+		<country>Hungary</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>361</id>
+		<name>Stephen Geoffrey "Steven" Redgrave</name>
+		<country>Great Britain</country>
+		<sport>Rowing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>362</id>
+		<name>Rica Reinisch (-Assmann, -Neumann)</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>363</id>
+		<name>Anfisa Anatolyevna Reztsova (Romanova-)</name>
+		<country>Soviet Union,  Unified Team,  Russia</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>364</id>
+		<name>Kimberly Susan "Kim" Rhode (-Harryman)</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>365</id>
+		<name>Franco Riccardi</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>366</id>
+		<name>Stephanie "Steph" Rice</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>367</id>
+		<name>Louis Marcel Richardet</name>
+		<country>Switzerland</country>
+		<sport>Shooting</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>368</id>
+		<name>Sanya Richards-Ross</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>369</id>
+		<name>Ulrike Richter (-Schmidt)</name>
+		<country>East Germany</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>370</id>
+		<name>Viljo Eino "Ville" Ritola (Koukkari-) Nickname(s): William, Peräseinäjoen susi, Suomalainen pystykorva</name>
+		<country>Finland</country>
+		<sport>Athletics</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>371</id>
+		<name>Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya)</name>
+		<country>Soviet Union</country>
+		<sport>Figure Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>372</id>
+		<name>Iain Murray Rose</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>373</id>
+		<name>Ralph Waldo Rose</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>374</id>
+		<name>Norman DeMille Ross Nickname(s): The Big Moose</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>375</id>
+		<name>Antonio Rossi</name>
+		<country>Italy</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>376</id>
+		<name>Jeffrey Norman "Jeff" Rouse</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>377</id>
+		<name>Florian Georges Philippe Rousseau</name>
+		<country>France</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>378</id>
+		<name>Wilma Glodean Rudolph (-Ward, -Eldridge)</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>379</id>
+		<name>Matthew Morgan "Matt" Ryan</name>
+		<country>Australia</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>380</id>
+		<name>Yevgeny Viktorovich Sadovy</name>
+		<country>Unified Team</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>381</id>
+		<name>Anton Engelbert "Toni" Sailer Nickname(s): "Der Blitz von Kitz", Tonai</name>
+		<country>Austria</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>382</id>
+		<name>Henri Julius Reverony Saint Cyr</name>
+		<country>Sweden</country>
+		<sport>Equestrianism</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>383</id>
+		<name>Vladimir Valeryevich Salnikov</name>
+		<country>Soviet Union</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>384</id>
+		<name>Viktor Saneyev</name>
+		<country>Soviet Union</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>385</id>
+		<name>Félix Savón Fabré</name>
+		<country>Cuba</country>
+		<sport>Boxing</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>386</id>
+		<name>Buvaisa Khamidovich Saytiyev</name>
+		<country>Russia</country>
+		<sport>Wrestling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>387</id>
+		<name>Adrie "Ard" Schenk</name>
+		<country>Netherlands</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>388</id>
+		<name>Allison Schmitt</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>389</id>
+		<name>Verena "Vreni" Schneider</name>
+		<country>Switzerland</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>390</id>
+		<name>Donald Arthur "Don" Schollander</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>7</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>391</id>
+		<name>Ollie Martin Schriver</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>392</id>
+		<name>Carl Schuhmann</name>
+		<country>Germany</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>393</id>
+		<name>Jochen Schümann</name>
+		<country>East Germany,  Germany</country>
+		<sport>Sailing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>394</id>
+		<name>Ralf Schumann</name>
+		<country>East Germany,  Germany</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>395</id>
+		<name>Karl Alfred Markus Schwarzmann</name>
+		<country>Germany</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>396</id>
+		<name>Katja Seizinger (-Weber)</name>
+		<country>Germany</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>397</id>
+		<name>Borys Anfiyanovych Shakhlin</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>7</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>398</id>
+		<name>Vitaly Venediktovich Shcherbo</name>
+		<country>Unified Team,  Belarus</country>
+		<sport>Gymnastics</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>399</id>
+		<name>Melvin Winfield "Mel" Sheppard</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>400</id>
+		<name>Martin Joseph Sheridan</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>401</id>
+		<name>Viktor Aleksandrovich Sidyak</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>402</id>
+		<name>Viorica Daniela Siliva? (-Harper)</name>
+		<country>Romania</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>403</id>
+		<name>Udham Singh Kular Nickname(s): Udhi</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>404</id>
+		<name>Randhir Singh Gentle</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>405</id>
+		<name>Balbir Singh Dosanjh, Sr.</name>
+		<country>India</country>
+		<sport>Hockey</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>406</id>
+		<name>Lidiya Pavlovna Skoblikova (-Polozkova)</name>
+		<country>Soviet Union</country>
+		<sport>Speed Skating</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>407</id>
+		<name>Raisa Petrovna Smetanina</name>
+		<country>Soviet Union,  Unified Team</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>408</id>
+		<name>Charles Sydney Smith</name>
+		<country>Great Britain</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>409</id>
+		<name>Katherine May "Katie" Smith</name>
+		<country>United States</country>
+		<sport>Basketball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>410</id>
+		<name>Michelle Marie Smith (-De Bruin)</name>
+		<country>Ireland</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>411</id>
+		<name>Peter George Snell</name>
+		<country>New Zealand</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>412</id>
+		<name>Colleen Sostorics Nickname(s): Stubs</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>413</id>
+		<name>Mark Andrew Spitz</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>9</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>414</id>
+		<name>Lloyd Spencer Spooner</name>
+		<country>United States</country>
+		<sport>Shooting</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>415</id>
+		<name>Kim St-Pierre</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>416</id>
+		<name>Konrad Stäheli</name>
+		<country>Switzerland</country>
+		<sport>Shooting</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>417</id>
+		<name>Dawn Michelle Staley</name>
+		<country>United States</country>
+		<sport>Basketball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>418</id>
+		<name>Renate Stecher (Meißner-)</name>
+		<country>East Germany</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>419</id>
+		<name>Carolyn Lynne "Carrie" Steinseifer (-Bates)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>420</id>
+		<name>Teófilo Stevenson Laurence Nickname(s): Pirolo</name>
+		<country>Cuba</country>
+		<sport>Boxing</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>421</id>
+		<name>Botond Storcz</name>
+		<country>Hungary</country>
+		<sport>Canoeing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>422</id>
+		<name>Sharon Marie Stouder</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>423</id>
+		<name>Shirley Barbara Strickland de la Hunty</name>
+		<country>Australia</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>424</id>
+		<name>Leon ?tukelj</name>
+		<country>Yugoslavia</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>425</id>
+		<name>Naim Süleymano?lu Nickname(s): The Pocket Hercules</name>
+		<country>Turkey</country>
+		<sport>Weightlifting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>426</id>
+		<name>Viorica Susanu</name>
+		<country>Romania</country>
+		<sport>Rowing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>427</id>
+		<name>Gunde Anders Svan</name>
+		<country>Sweden</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>428</id>
+		<name>Alfred Gomer Albert "Alf" Swahn</name>
+		<country>Sweden</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>429</id>
+		<name>Oscar Gomer Swahn</name>
+		<country>Sweden</country>
+		<sport>Shooting</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>430</id>
+		<name>Sheryl Denice Swoopes</name>
+		<country>United States</country>
+		<sport>Basketball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>431</id>
+		<name>Ecaterina (Katalin-) Szabo (-Tamas) Nickname(s): Kati</name>
+		<country>Romania</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>432</id>
+		<name>Zoltán Szécsi</name>
+		<country>Hungary</country>
+		<sport>Water Polo</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>433</id>
+		<name>Irena Szewi?ska-Kirszenstein</name>
+		<country>Poland</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>434</id>
+		<name>Ashley Tara Tappin (-Doussan)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>435</id>
+		<name>Angelo F. Taylor</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>436</id>
+		<name>Henry Taylor</name>
+		<country>Great Britain</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>437</id>
+		<name>Monica Theodorescu</name>
+		<country>West Germany,  Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>438</id>
+		<name>Petria Ann Thomas (-Jones)</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>439</id>
+		<name>Jennifer Elisabeth "Jenny" Thompson Nickname(s): Jenny Beth</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>8</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>440</id>
+		<name>Ian James Thorpe Nickname(s): Thorpedo</name>
+		<country>Australia</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>441</id>
+		<name>Arnold Clas Robert Thunberg Nickname(s): Jääkenttien Nurmi, Classe, Clasu</name>
+		<country>Finland</country>
+		<sport>Speed Skating</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>442</id>
+		<name>Aleksandr Ivanovich Tikhonov</name>
+		<country>Soviet Union</country>
+		<sport>Biathlon</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>443</id>
+		<name>Maria Aaltje "Marianne" Timmer</name>
+		<country>Netherlands</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>444</id>
+		<name>Alberto Tomba</name>
+		<country>Italy</country>
+		<sport>Alpine Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>445</id>
+		<name>James Bruce Tomkins</name>
+		<country>Australia</country>
+		<sport>Rowing</sport>
+		<gold>3</gold>
+		<continent>Australia</continent>
+	</Athlete>
+	<Athlete>
+		<id>446</id>
+		<name>Gwendolyn Lenna "Gwen" Torrence (-Waller, -Smith)</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>447</id>
+		<name>Dara Grace Torres (-Hoffman)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>448</id>
+		<name>Regla Radameris Torres Herrera</name>
+		<country>Cuba</country>
+		<sport>Volleyball</sport>
+		<gold>3</gold>
+		<continent>South America</continent>
+	</Athlete>
+	<Athlete>
+		<id>449</id>
+		<name>Vladislav Aleksandrovich Tretyak</name>
+		<country>Soviet Union</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>450</id>
+		<name>Giovanna Trillini</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>451</id>
+		<name>Mitsuo Tsukahara</name>
+		<country>Japan</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>452</id>
+		<name>Lyudmila Ivanovna Turishcheva (-Borzova)</name>
+		<country>Soviet Union</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>453</id>
+		<name>Wyomia Tyus (-Simburg)</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>454</id>
+		<name>Vegard Ulvang</name>
+		<country>Norway</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>455</id>
+		<name>Nicole Uphoff-Becker (-Selke)</name>
+		<country>West Germany,  Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>456</id>
+		<name>Yelena Valeryevna Välbe (Trubitsyna-)</name>
+		<country>Unified Team,  Russia</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>457</id>
+		<name>Pieter Cornelis Martijn van den Hoogenband Nickname(s): VDH, Hoogie, The Dutch Dolphin</name>
+		<country>Netherlands</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>458</id>
+		<name>Adolf Dirk Coenraad van der Voort van Zijp</name>
+		<country>Netherlands</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>459</id>
+		<name>Amy D. Van Dyken (-Rouen)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>6</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>460</id>
+		<name>Yvonne Maria Therèse van Gennip</name>
+		<country>Netherlands</country>
+		<sport>Speed Skating</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>461</id>
+		<name>Theodora Elisabeth Gerarda "Anky" van Grunsven</name>
+		<country>Netherlands</country>
+		<sport>Equestrianism</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>462</id>
+		<name>Hubert Van Innis</name>
+		<country>Belgium</country>
+		<sport>Archery</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>463</id>
+		<name>Edmond Van Moer</name>
+		<country>Belgium</country>
+		<sport>Archery</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>464</id>
+		<name>Francesco Verri Nickname(s): Cesco</name>
+		<country>Italy</country>
+		<sport>Cycling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>465</id>
+		<name>Maria Valentina Vezzali</name>
+		<country>Italy</country>
+		<sport>Fencing</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>466</id>
+		<name>Lasse Artturi Virén</name>
+		<country>Finland</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>467</id>
+		<name>Dana Denise Vollmer</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>4</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>468</id>
+		<name>Imrich Zoltán von Halmay</name>
+		<country>Hungary</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>469</id>
+		<name>Susan Christina "Chris" von Saltza (-Olmstead)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>470</id>
+		<name>Katrin Wagner-Augustin</name>
+		<country>Germany</country>
+		<sport>Canoeing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>471</id>
+		<name>Michael Allen Wall</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>472</id>
+		<name>Kerri Lee Walsh Nickname(s): Six Feet of Sunshine</name>
+		<country>United States</country>
+		<sport>Beach Volleyball</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>473</id>
+		<name>Wang Meng</name>
+		<country>China</country>
+		<sport>Short Track Speed Skating</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>474</id>
+		<name>Wang Nan</name>
+		<country>China</country>
+		<sport>Table Tennis</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>475</id>
+		<name>Jeremy Matthew Wariner</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>476</id>
+		<name>Thomas Lars Wassberg</name>
+		<country>Sweden</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>477</id>
+		<name>Lillian Debra "Pokey" Watson (-Richardson)</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>478</id>
+		<name>Ulrich Wehling</name>
+		<country>East Germany</country>
+		<sport>Nordic Combined</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>479</id>
+		<name>Hermann Weingärtner</name>
+		<country>Germany</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>480</id>
+		<name>Peter Johann "Johnny" Weissmuller</name>
+		<country>United States</country>
+		<sport>Swimming</sport>
+		<gold>5</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>481</id>
+		<name>Jens Weißflog Nickname(s): Floh</name>
+		<country>East Germany,  Germany</country>
+		<sport>Ski Jumping</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>482</id>
+		<name>Isabelle Regina Werth</name>
+		<country>Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>483</id>
+		<name>Carl Oscar Westergren Nickname(s): Calle</name>
+		<country>Sweden</country>
+		<sport>Wrestling</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>484</id>
+		<name>Malvin Groston "Mal" Whitfield</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>485</id>
+		<name>Hayley Marie Wickenheiser</name>
+		<country>Canada</country>
+		<sport>Ice Hockey</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>486</id>
+		<name>Bradley Marc Wiggins Nickname(s): Brad</name>
+		<country>Great Britain</country>
+		<sport>Cycling</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>487</id>
+		<name>Katarina "Kati" Wilhelm Nickname(s): Rotkäppchen</name>
+		<country>Germany</country>
+		<sport>Biathlon</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>488</id>
+		<name>Serena Jamika Williams</name>
+		<country>United States</country>
+		<sport>Tennis</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>489</id>
+		<name>Venus Ebony Starr Williams</name>
+		<country>United States</country>
+		<sport>Tennis</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>490</id>
+		<name>Hans Günter Winkler</name>
+		<country>Germany,  West Germany</country>
+		<sport>Equestrianism</sport>
+		<gold>5</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>491</id>
+		<name>Wu Minxia</name>
+		<country>China</country>
+		<sport>Diving</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>492</id>
+		<name>Frank Clifford Wykoff Nickname(s): The Glendale Greyhound</name>
+		<country>United States</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>North America</continent>
+	</Athlete>
+	<Athlete>
+		<id>493</id>
+		<name>Xiong Ni</name>
+		<country>China</country>
+		<sport>Diving</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>494</id>
+		<name>Yang Wei</name>
+		<country>China</country>
+		<sport>Gymnastics</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>495</id>
+		<name>Lyubov Ivanovna Yegorova</name>
+		<country>Unified Team,  Russia</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>6</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>496</id>
+		<name>Anastasiya Nikolayevna Yermakova</name>
+		<country>Russia</country>
+		<sport>Synchronized Swimming</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>497</id>
+		<name>Yun Mi-Jin</name>
+		<country>South Korea</country>
+		<sport>Archery</sport>
+		<gold>3</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>498</id>
+		<name>Aleksandra Ivanovna Zabelina</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>499</id>
+		<name>Giorgio Zampori</name>
+		<country>Italy</country>
+		<sport>Gymnastics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>500</id>
+		<name>Emil Zátopek</name>
+		<country>Czechoslovakia</country>
+		<sport>Athletics</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>501</id>
+		<name>Jan ?elezný</name>
+		<country>Czechoslovakia,  Czech Republic</country>
+		<sport>Athletics</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>502</id>
+		<name>Zhang Yining</name>
+		<country>China</country>
+		<sport>Table Tennis</sport>
+		<gold>4</gold>
+		<continent>Asia</continent>
+	</Athlete>
+	<Athlete>
+		<id>503</id>
+		<name>Viktor Frantsevich Zhdanovich</name>
+		<country>Soviet Union</country>
+		<sport>Fencing</sport>
+		<gold>3</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>504</id>
+		<name>Leontine Martha Henrica Petronella "Leontien" Zijlaard-van Moorsel</name>
+		<country>Netherlands</country>
+		<sport>Cycling</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>505</id>
+		<name>Nikolay Semyonovich Zimyatov</name>
+		<country>Soviet Union</country>
+		<sport>Cross Country Skiing</sport>
+		<gold>4</gold>
+		<continent>Europe</continent>
+	</Athlete>
+	<Athlete>
+		<id>506</id>
+		<name>Zou Kai</name>
+		<country>China</country>
+		<sport>Gymnastics</sport>
+		<gold>5</gold>
+		<continent>Asia</continent>
+	</Athlete>
+</Athletes>
