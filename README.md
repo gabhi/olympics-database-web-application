@@ -27,5 +27,11 @@ Imported huge XML using XQuery and improved SQL query efficiency by query optimi
 
 8.	If you are playing the game on http://monopolyolymics.appspot.com/, you MUST complete the game! Otherwise the server will wait for you so other people cannot play.
 
-    
+## _Showcase_
+
+1. Login.
+
+Login with your player name, respectively. For example, "bear", "monster", and "donkey".
+
+![index](snapshots/first.png)
     
