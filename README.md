@@ -1,4 +1,4 @@
-olympics-database-web-application
+Olympics Database Web Application
 =================================
 
 Innovated a multi-player game like Richman in Java Servlet JSP based on a very large dataset of 2012 Olympics, including exotic web UI, multithreaded server, AJAX interaction, and MySQL database. 
