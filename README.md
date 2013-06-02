@@ -33,24 +33,28 @@ Imported huge XML using XQuery and improved SQL query efficiency by query optimi
 
 Login with your player name, respectively. For example, "bear", "monster", and "donkey".
 
-![index](snapshots/first.png)
-<div style="float: right"><img src="first.jpg" /></div>
+<div><img src="snapshots/first.png" width=900/></div>
+
 2. Waiting Your Friends
 
 Then you arrive at the game lobby, waiting for your friends to start game. The default number of players are three.
 
-![second](snapshots/wait.png)
+<div><img src="snapshots/wait.png" width=900/></div>
 
 3. Play!
 
 
 There are altogether TWO big steps: 
+
 Step1:   Roll Dice
+
 Step 2:  Go.
-![play](snapshots/play.png)
+
+<div><img src="snapshots/play.png" width=900/></div>
 
 Circumstance 1:  When you arrive at a house,  decide whether to buy a house. 
-![play](snapshots/purchase.png)
+
+<div><img src="snapshots/purchase.png" width=300/></div>
 
 If you choose to buy a house, select one of the 8 athletes below, and use it's number of gold medals as your property! 
 
