@@ -34,7 +34,7 @@ Imported huge XML using XQuery and improved SQL query efficiency by query optimi
 Login with your player name, respectively. For example, "bear", "monster", and "donkey".
 
 ![index](snapshots/first.png)
-
+<div style="float: right"><img src="first.jpg" /></div>
 2. Waiting Your Friends
 
 Then you arrive at the game lobby, waiting for your friends to start game. The default number of players are three.
