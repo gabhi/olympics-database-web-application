@@ -34,4 +34,69 @@ Imported huge XML using XQuery and improved SQL query efficiency by query optimi
 Login with your player name, respectively. For example, "bear", "monster", and "donkey".
 
 ![index](snapshots/first.png)
+
+2. Waiting Your Friends
+
+Then you arrive at the game lobby, waiting for your friends to start game. The default number of players are three.
+
+![second](snapshots/wait.png)
+
+3. Play!
+
+
+There are altogether TWO big steps: 
+Step1:   Roll Dice
+Step 2:  Go.
+![play](snapshots/play.png)
+
+Circumstance 1:  When you arrive at a house,  decide whether to buy a house. 
+![play](snapshots/purchase.png)
+
+If you choose to buy a house, select one of the 8 athletes below, and use it's number of gold medals as your property! 
+
+So when other people step onto it, they will charge that amount of money. 
+
+![play](snapshots/select.png)
+
+To see the information of the  card, you can click on the card to view it. Note that we have done preprocessing about the athletes: trimmed names and picked ones with gold medals more than 3.
+
+![play](snapshots/card.png)
+
+So when you entered the number. You can see the house that belongs to you! 
+
+One inspiring thing you have to know is that the owner sometime can change double, in case the house is located in the same continent in which the athlete belongs.
+![build](snapshots/build.png)
+
+It is also essential to note that the history board on the right is recording all the information that you should be aware of.
+![history](snapshots/board.png)
+
+What's more, you can view your deposit in real time to not fall behind.
+![deposite](snapshots/deposite.png)
+
+Circumstance 2:  When you arrive at a money sign, you will get extra money!
+![money](snapshots/gold.png)
+
+Circumstance 3: But when you step onto a bomb, you will lose a lot of money, which may directly drive you into bankruptcy! 
+![bomb](snapshots/bomb.png)
+Circumstance 4: When you step onto a stop sign, you will stop for one turn and wait for others.
+![stop](snapshots/stop.png)
+
+Circumstance 5: When you step onto another player's house, you will be charged some money for that.
+![charge](snapshots/pay.png)
+
+Circumstance 6:  When you step onto your house again, you may upgrade your house to charge more money for others.
+There are altogether 3 levels for the houses.
+![upgrade](snapshots/upgrade.png)
+
+For the example on the right, the bear has now upgraded to the 3rd level. 
+![third-level](snapshots/final-grade.png)
+
+Circumstance 7:  When you are bankruptcy, you will be kicked out of the game. In this case, your house will not charge the remaining players. So the last player survived will be the winner.
+
+Finally, take a look at the screenshot at the end of an intense game. You must find it interesting. Hope you enjoy : )
+![final](snapshots/final.png)
+
+
+
+
     
